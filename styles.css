@@ -1,0 +1,7 @@
+.img{display: block;margin-left: auto;margin-right: auto; width: auto; height: 800px;}
+.title{text-align: center;}
+.c{display: block;margin-top: 8px;}
+.b{display: block;margin-top: 8px;}
+.p{display: block;margin-top: 8px;}
+.body{display: block;text-align: center; margin-left: auto;margin-right: auto}
+.i, .c, .b, .p{background-color: rgb(225, 243, 243);}
